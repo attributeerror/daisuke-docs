@@ -243,6 +243,23 @@ The European Commission has established an online platform for alternative dispu
 
 As a result, any European Consumer can use such platform for resolving any dispute stemming from contracts which have been entered into online. The platform is [available at the following link](https://ec.europa.eu/consumers/odr/) [^1].
 
+### Subscriptions
+
+#### Subscription Plans
+We offer a subscription plan for any User who wishes to access premium features. Any available plans and their benefits are outlined within the relevant information command. Note that these subscriptions are solely a gift to the developer, and the premium features are a bonus and a thank you for your generosity. Any of the subscription plans are not a product in and of themselves, and any property remains the right of the Owner.
+
+#### Payment
+Upon taking out a Subscription Plan, you agree to pay within the described payment period of 14 days. Failure to do so may result in late charges being applied to your invoice. Note that you won't be able to access the features of your subscription plan until payment is confirmed. Fees are non-refundable, unless otherwise explicitly stated within our Refund Policy.
+
+#### Term and Renewal
+Your subscription will automatically renew for the chosen term (e.g., monthly, annually) unless you cancel before the renewal date.
+
+#### Cancellation
+You are welcome to cancel your subscription at any time; at which point your subscription will lapse at the end of the current billing period.
+
+#### Accurate Infomration
+It is your responsibility that you provide accurate information when taking out your subscription plan. This is to comply with any applicable local tax laws.
+
 # Definitions and legal references
 
 **This Application**  
@@ -274,8 +291,8 @@ Any user qualifying as a natural person who accesses goods or services for perso
 
 ---
 
-**Latest update**: 28th February, 2023  
-**Effective from**: 28th March, 2023
+**Latest update**: 14th August, 2023  
+**Effective from**: 14th September, 2023
 
 ---
 

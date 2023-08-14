@@ -4,3 +4,4 @@ This is a simple site, created solely for the purpose of hosting documentation r
 
 - [Terms of Service of Daisuke](./terms-of-service.md)
 - [Daisuke's Privacy Policy](./privacy-policy.md)
+- [Refund Policy](./refund-policy.md)
