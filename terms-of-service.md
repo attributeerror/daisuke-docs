@@ -1,3 +1,7 @@
+> Daisuke is currently down as the Lead Developer (AttributeError) is locked out of his account.
+> Long story short, I suffered a social engineering attack. You don't need to remove Daisuke from your server, but it be would be advisable to remove its administrative permissions for the time being.
+> Please keep an eye on this document for any further developments.
+
 These Terms govern the use of Daisuke _(hereby referred to as Application, Bot, or Daisuke)_.  
 Capitalised words are defined in the relevant dedicated section of this document.
 

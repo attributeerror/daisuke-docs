@@ -1,3 +1,7 @@
+> Daisuke is currently down as the Lead Developer (AttributeError) is locked out of his account.
+> Long story short, I suffered a social engineering attack. You don't need to remove Daisuke from your server, but it be would be advisable to remove its administrative permissions for the time being.
+> Please keep an eye on this document for any further developments.
+
 It's understandable that you care about your privacy online: we all should, right?  
 Here's what data Daisuke collects, how it's used and why.  
 If you have any questions after reading through this, look at the information detailed at the bottom of this document as to how you can get in contact with a Daisuke Developer.
