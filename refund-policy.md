@@ -1,9 +1,5 @@
 # Subscription Refunds
 
-> Daisuke is currently down as the Lead Developer (AttributeError) is locked out of his account.
-> Long story short, I suffered a social engineering attack. You don't need to remove Daisuke from your server, but it be would be advisable to remove its administrative permissions for the time being.
-> Please keep an eye on this document for any further developments.
-
 ## Refund Eligibility
 Daisuke's subscription plans are generally non-refundable. However, we understand that situations may arise where a refund could be appropriate. Please discuss with the Owner (via the contact methods listed in the Terms of Service) to see if you may be eligible for a refund.
 
